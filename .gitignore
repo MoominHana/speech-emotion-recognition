@@ -2,9 +2,9 @@
 # Python
 # =========================
 
-# __pycache__/
-# *.py[cod]
-# *$py.class
+__pycache__/
+*.py[cod]
+*$py.class
 
 # Virtual environment
 .venv/
@@ -20,7 +20,7 @@ env/
 # Jupyter
 # =========================
 
-# .ipynb_checkpoints/
+.ipynb_checkpoints/
 
 # =========================
 # Environment / Secrets
