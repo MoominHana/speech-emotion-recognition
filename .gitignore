@@ -69,3 +69,4 @@ env/
 # *.mp3
 # *.m4a
 # *.flac
+/emotion_recognition/recorded.wav
